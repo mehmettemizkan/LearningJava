@@ -15,10 +15,10 @@ This repo contains the applications that I applied what I learned in the '(2022)
 ### Week 4
 - Spring Boot Introduction
 
-Week 5
+### Week 5
 - Spring Boot 2
 
-### ### Week 6
+### Week 6
 - Spring Boot 3
 
 ### Week 7
